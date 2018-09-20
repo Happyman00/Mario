@@ -142,14 +142,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   map: {fileID: 0}
   colorMappings:
-  - color: {r: 1, g: 1, b: 0, a: 1}
-    prefab: {fileID: 0}
+  - color: {r: 0, g: 0.5882353, b: 0, a: 1}
+    prefab: {fileID: 1475899470989206, guid: 6a9c66e7a5619234db630b9727718a1f, type: 2}
   - color: {r: 0, g: 0, b: 0, a: 1}
-    prefab: {fileID: 0}
+    prefab: {fileID: 1929503629136698, guid: 4dd98b70881b4d94486f14c18bcfe1a8, type: 2}
   - color: {r: 1, g: 0, b: 0, a: 1}
-    prefab: {fileID: 0}
+    prefab: {fileID: 1496798190439678, guid: b13369ebe5df6b24a8d6f205855f945d, type: 2}
   - color: {r: 0.5882353, g: 0, b: 0, a: 1}
-    prefab: {fileID: 0}
+    prefab: {fileID: 1223228323670676, guid: d7f4dcc6d1fbdb548a166e5a508db0d9, type: 2}
+  - color: {r: 1, g: 1, b: 0, a: 1}
+    prefab: {fileID: 1223228323670676, guid: d7f4dcc6d1fbdb548a166e5a508db0d9, type: 2}
 --- !u!4 &908342549
 Transform:
   m_ObjectHideFlags: 0
