@@ -140,7 +140,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 51e850249e94af84aabdff55aeca3a52, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  map: {fileID: 0}
+  map: {fileID: 2800000, guid: 4d407a1e2b5a38d459aa247dd8d0f6b4, type: 3}
   colorMappings:
   - color: {r: 0, g: 0.5882353, b: 0, a: 1}
     prefab: {fileID: 1475899470989206, guid: 6a9c66e7a5619234db630b9727718a1f, type: 2}
